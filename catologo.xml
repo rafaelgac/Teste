@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:g="http://base.google.com/ns/1.0">
+  <channel>
+    <title>Catálogo de Máquinas Pesadas</title>
+    <link>https://www.suaempresa.com.br</link>
+    <description>Catálogo de máquinas pesadas para locação e venda.</description>
+
+    <item>
+      <g:id>MP001</g:id>
+      <g:title>Escavadeira Hidráulica</g:title>
+      <g:description>Escavadeira hidráulica para construção civil com motor de alta potência e baixo consumo de combustível.</g:description>
+      <g:link>https://www.suaempresa.com.br/escavadeira-hidraulica</g:link>
+      <g:image_link>https://www.suaempresa.com.br/imagens/escavadeira.jpg</g:image_link>
+      <g:brand>Marca X</g:brand>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:price>200000 BRL</g:price>
+      <g:mpn>ESC001</g:mpn>
+      <g:shipping_weight>20000 kg</g:shipping_weight>
+      <g:custom_label_0>Locação</g:custom_label_0>
+      <g:product_type>Máquinas Pesadas</g:product_type>
+    </item>
+
+    <item>
+      <g:id>MP002</g:id>
+      <g:title>Trator de Esteira</g:title>
+      <g:description>Trator de esteira ideal para nivelamento de terrenos em obras de construção civil e agrícola.</g:description>
+      <g:link>https://www.suaempresa.com.br/trator-de-esteira</g:link>
+      <g:image_link>https://www.suaempresa.com.br/imagens/trator-esteira.jpg</g:image_link>
+      <g:brand>Marca Y</g:brand>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:price>150000 BRL</g:price>
+      <g:mpn>TRT002</g:mpn>
+      <g:shipping_weight>18000 kg</g:shipping_weight>
+      <g:custom_label_0>Venda</g:custom_label_0>
+      <g:product_type>Máquinas Pesadas</g:product_type>
+    </item>
+
+    <item>
+      <g:id>MP003</g:id>
+      <g:title>Guindaste</g:title>
+      <g:description>Guindaste para movimentação de grandes estruturas em projetos de construção e mineração.</g:description>
+      <g:link>https://www.suaempresa.com.br/guindaste</g:link>
+      <g:image_link>https://www.suaempresa.com.br/imagens/guindaste.jpg</g:image_link>
+      <g:brand>Marca Z</g:brand>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:price>500000 BRL</g:price>
+      <g:mpn>GND003</g:mpn>
+      <g:shipping_weight>35000 kg</g:shipping_weight>
+      <g:custom_label_0>Locação e Venda</g:custom_label_0>
+      <g:product_type>Máquinas Pesadas</g:product_type>
+    </item>
+
+  </channel>
+</rss>
